@@ -1,6 +1,6 @@
 # Claude Code Toolkit
 
-**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via [SkillKit](https://agenstskills.com)), 42 commands, 150+ plugins, 19 hooks, 15 rules, 7 templates, 8 MCP configs, and more.**
+**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 150+ plugins, 19 hooks, 15 rules, 7 templates, 8 MCP configs, and more.**
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -54,6 +54,16 @@ curl -fsSL https://raw.githubusercontent.com/rohitg00/awesome-claude-code-toolki
 ## Plugins
 
 Over 150 production-ready plugins that extend Claude Code with domain-specific capabilities.
+
+### Featured
+
+| Plugin | Stars | Description |
+|--------|-------|-------------|
+| [pro-workflow](https://github.com/rohitg00/pro-workflow) | 1,400+ | Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, 8 hook types, 5 agents, and the 80/20 AI coding ratio. Install: `/plugin marketplace add rohitg00/pro-workflow` |
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 78,600+ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, OpenCode, Cursor, and beyond. |
+| [gstack](https://github.com/garrytan/gstack) | 15,000+ | Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager, and QA Engineer. 15K+ stars in 5 days. |
+
+### All Plugins
 
 | Plugin | Description |
 |--------|-------------|
@@ -423,7 +433,7 @@ Reference an agent in your `CLAUDE.md`:
 
 ## Skills
 
-Thirty-five curated skill modules included in this repo, with access to **15,000+ additional skills** via the [SkillKit marketplace](https://agenstskills.com). Each included skill teaches Claude Code domain-specific patterns with code examples, anti-patterns, and checklists.
+Thirty-five curated skill modules included in this repo, with access to **400,000+ additional skills** via the [SkillKit marketplace](https://agenstskills.com). Each included skill teaches Claude Code domain-specific patterns with code examples, anti-patterns, and checklists.
 
 | Skill | Directory | What It Teaches |
 |-------|-----------|-----------------|
@@ -486,11 +496,11 @@ npx skillkit@latest install claude-code-toolkit/tdd-mastery
 
 ### 15,000+ Skills via SkillKit Marketplace
 
-This toolkit includes 35 curated skills. For access to **15,000+ additional skills** across every domain, use [SkillKit](https://agenstskills.com):
+This toolkit includes 35 curated skills. For access to **400,000+ additional skills** across every domain, use [SkillKit](https://agenstskills.com):
 
 ```bash
 npx skillkit@latest                    # Launch interactive TUI
-npx skillkit@latest search "react"     # Search 15,000+ skills
+npx skillkit@latest search "react"     # Search 400,000+ skills
 npx skillkit@latest recommend          # AI-powered skill recommendations
 ```
 
