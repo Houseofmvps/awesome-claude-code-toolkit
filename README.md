@@ -673,6 +673,7 @@ Seven curated Model Context Protocol server configurations.
 | Kubernetes | [`kubernetes.json`](mcp-configs/kubernetes.json) | kubectl-mcp-server, Docker, GitHub |
 | Data Science | [`data-science.json`](mcp-configs/data-science.json) | Jupyter, SQLite, PostgreSQL, Filesystem |
 | Frontend | [`frontend.json`](mcp-configs/frontend.json) | Puppeteer, Figma, Storybook |
+| Crypto / DeFi | [`crypto-defi.json`](mcp-configs/crypto-defi.json) | defi-mcp, Filesystem, Fetch, Memory |
 | DevOps | [`devops.json`](mcp-configs/devops.json) | AWS, Docker, GitHub, Terraform, Sentry |
 | Research | [`research.json`](mcp-configs/research.json) | BGPT scientific papers, Brave Search, Fetch, Memory, Filesystem |
 
