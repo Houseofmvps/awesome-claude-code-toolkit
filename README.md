@@ -213,7 +213,7 @@ Over 150 production-ready plugins that extend Claude Code with domain-specific c
 | [type-migrator](plugins/type-migrator/) | Migrate JavaScript files to TypeScript with proper types |
 | [ui-designer](plugins/ui-designer/) | Implement UI designs from specs with pixel-perfect component generation |
 | [ultrathink](plugins/ultrathink/) | Deep analysis mode with extended reasoning for complex problems |
-| [ultraship](https://github.com/Houseofmvps/ultraship) | Pre-deploy auditing (SEO, security, code profiling, bundle size), structured workflows (TDD, code review, planning), and project tooling (architecture mapping, incident response, competitive analysis). 29 Node.js tools, 1 dependency. |
+| [ultraship](https://github.com/Houseofmvps/ultraship) | 32 expert-level skills for building, shipping, and scaling production software. 29 audit tools (security, code quality, bundle size, SEO/GEO/AEO) close the loop before deploy. 1 dependency. |
 | [unit-test-generator](plugins/unit-test-generator/) | Generate comprehensive unit tests for any function or module |
 | [update-branch](plugins/update-branch/) | Rebase and update feature branches with conflict resolution |
 | [vision-specialist](plugins/vision-specialist/) | Image and visual analysis with screenshot interpretation and text extraction |
