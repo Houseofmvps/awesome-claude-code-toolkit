@@ -107,6 +107,7 @@ Over 150 production-ready plugins that extend Claude Code with domain-specific c
 | [code-guardian](plugins/code-guardian/) | Automated code review, security scanning, and quality enforcement |
 | [code-review-assistant](plugins/code-review-assistant/) | Automated code review with severity levels and actionable feedback |
 | [codebase-documenter](plugins/codebase-documenter/) | Auto-document entire codebase with inline comments and API docs |
+| [codesight](https://github.com/Houseofmvps/codesight) | CLI token optimizer and AI context generator. Scans codebases to extract routes, schema, components, and dependencies for Claude Code, Cursor, Copilot, Codex, and Windsurf. 9x–13x token reduction. Zero runtime dependencies. `npx codesight` |
 | [color-contrast](plugins/color-contrast/) | Color contrast checking and accessible color suggestions |
 | [commit-commands](plugins/commit-commands/) | Advanced commit workflows with smart staging and push automation |
 | [complexity-reducer](plugins/complexity-reducer/) | Reduce cyclomatic complexity and simplify functions |
